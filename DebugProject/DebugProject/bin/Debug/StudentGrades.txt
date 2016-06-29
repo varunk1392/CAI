@@ -1,0 +1,9 @@
+﻿Kevin,90,100
+Kris,92,100
+Brad,85,100
+Brandon,89,100
+Sara,78,100
+Rena,80,test
+Karen,90,100
+Mark,65,100
+Adam,75,0
